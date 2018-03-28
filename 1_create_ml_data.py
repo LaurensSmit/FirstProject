@@ -2,5 +2,10 @@
   
   heel
   veel
-  code
+  code ook
   hier
+  
+  en
+  na
+  een
+  update
